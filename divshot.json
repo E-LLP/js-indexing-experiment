@@ -1,0 +1,6 @@
+{
+  "name": "js-indexing-experiment",
+  "root": "./",
+  "clean_urls": false,
+  "error_page": "error.html"
+}
